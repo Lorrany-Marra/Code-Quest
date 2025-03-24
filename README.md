@@ -12,8 +12,8 @@ Ganhe pontos, avance no placar e prove seu domínio no universo da programação
 
 ## 🚀 Tecnologias utilizadas
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript 
 
 ## 📸 Preview
